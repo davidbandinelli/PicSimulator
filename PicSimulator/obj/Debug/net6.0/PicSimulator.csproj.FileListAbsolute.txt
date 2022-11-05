@@ -1,0 +1,15 @@
+c:\git\PicSimulator\PicSimulator\PicSimulator\bin\Debug\net6.0\PicSimulator.exe
+c:\git\PicSimulator\PicSimulator\PicSimulator\bin\Debug\net6.0\PicSimulator.deps.json
+c:\git\PicSimulator\PicSimulator\PicSimulator\bin\Debug\net6.0\PicSimulator.runtimeconfig.json
+c:\git\PicSimulator\PicSimulator\PicSimulator\bin\Debug\net6.0\PicSimulator.dll
+c:\git\PicSimulator\PicSimulator\PicSimulator\bin\Debug\net6.0\PicSimulator.pdb
+c:\git\PicSimulator\PicSimulator\PicSimulator\obj\Debug\net6.0\PicSimulator.csproj.AssemblyReference.cache
+c:\git\PicSimulator\PicSimulator\PicSimulator\obj\Debug\net6.0\PicSimulator.GeneratedMSBuildEditorConfig.editorconfig
+c:\git\PicSimulator\PicSimulator\PicSimulator\obj\Debug\net6.0\PicSimulator.AssemblyInfoInputs.cache
+c:\git\PicSimulator\PicSimulator\PicSimulator\obj\Debug\net6.0\PicSimulator.AssemblyInfo.cs
+c:\git\PicSimulator\PicSimulator\PicSimulator\obj\Debug\net6.0\PicSimulator.csproj.CoreCompileInputs.cache
+c:\git\PicSimulator\PicSimulator\PicSimulator\obj\Debug\net6.0\PicSimulator.dll
+c:\git\PicSimulator\PicSimulator\PicSimulator\obj\Debug\net6.0\refint\PicSimulator.dll
+c:\git\PicSimulator\PicSimulator\PicSimulator\obj\Debug\net6.0\PicSimulator.pdb
+c:\git\PicSimulator\PicSimulator\PicSimulator\obj\Debug\net6.0\PicSimulator.genruntimeconfig.cache
+c:\git\PicSimulator\PicSimulator\PicSimulator\obj\Debug\net6.0\ref\PicSimulator.dll
